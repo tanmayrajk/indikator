@@ -6364,7 +6364,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 549.91 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -6533,7 +6533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 91.948 90)
 			(hide yes)
 			(show_name no)
@@ -6612,7 +6612,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 396.24 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6705,7 +6705,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 147.0152 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -6940,7 +6940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 237.49 145.288 90)
 			(hide yes)
 			(show_name no)
@@ -7020,7 +7020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 337.82 67.818 90)
 			(hide yes)
 			(show_name no)
@@ -7100,7 +7100,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 539.75 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -7180,7 +7180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 237.49 133.858 90)
 			(hide yes)
 			(show_name no)
@@ -7259,7 +7259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 247.65 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -7350,7 +7350,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 396.24 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -7441,7 +7441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 128.778 90)
 			(hide yes)
 			(show_name no)
@@ -7609,7 +7609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 386.08 122.428 90)
 			(hide yes)
 			(show_name no)
@@ -7689,7 +7689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 491.49 80.518 90)
 			(hide yes)
 			(show_name no)
@@ -7936,7 +7936,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 491.49 140.208 90)
 			(hide yes)
 			(show_name no)
@@ -8016,7 +8016,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 237.49 74.168 90)
 			(hide yes)
 			(show_name no)
@@ -8096,7 +8096,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 539.75 122.428 90)
 			(hide yes)
 			(show_name no)
@@ -8264,7 +8264,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 549.91 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -8355,7 +8355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 80.518 90)
 			(hide yes)
 			(show_name no)
@@ -8435,7 +8435,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 247.65 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8526,7 +8526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 491.49 128.778 90)
 			(hide yes)
 			(show_name no)
@@ -8685,7 +8685,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 396.24 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -8775,7 +8775,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 549.91 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8866,7 +8866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 386.08 98.298 90)
 			(hide yes)
 			(show_name no)
@@ -9036,7 +9036,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 450.5452 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -9116,7 +9116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 386.08 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -9284,7 +9284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 337.82 117.348 90)
 			(hide yes)
 			(show_name no)
@@ -9364,7 +9364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 237.49 110.998 90)
 			(hide yes)
 			(show_name no)
@@ -9532,7 +9532,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 396.24 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9625,7 +9625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_CSP:Xilinx_CSG48_7.0x7.0mm_Layout7x7_P0.8mm"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 312.42 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -9747,7 +9747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 386.08 133.858 90)
 			(hide yes)
 			(show_name no)
@@ -9827,7 +9827,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 237.49 98.298 90)
 			(hide yes)
 			(show_name no)
@@ -9909,7 +9909,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_CSP:Xilinx_CSG48_7.0x7.0mm_Layout7x7_P0.8mm"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 466.09 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -10031,7 +10031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 337.82 128.778 90)
 			(hide yes)
 			(show_name no)
@@ -10111,7 +10111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 491.49 91.948 90)
 			(hide yes)
 			(show_name no)
@@ -10191,7 +10191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 539.75 133.858 90)
 			(hide yes)
 			(show_name no)
@@ -10359,7 +10359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 67.818 90)
 			(hide yes)
 			(show_name no)
@@ -10439,7 +10439,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 549.91 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -10532,7 +10532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD"
+		(property "Footprint" "RF_Module:MCU_Seeed_ESP32C3"
 			(at 52.832 99.314 0)
 			(hide yes)
 			(show_name no)
@@ -10751,7 +10751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 104.648 90)
 			(hide yes)
 			(show_name no)
@@ -10831,7 +10831,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 247.65 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -11000,7 +11000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 491.49 151.638 90)
 			(hide yes)
 			(show_name no)
@@ -11080,7 +11080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 539.75 145.288 90)
 			(hide yes)
 			(show_name no)
@@ -11335,7 +11335,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 396.24 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -11426,7 +11426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 151.638 90)
 			(hide yes)
 			(show_name no)
@@ -11506,7 +11506,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 386.08 110.998 90)
 			(hide yes)
 			(show_name no)
@@ -11762,7 +11762,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 396.24 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -11852,7 +11852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 247.65 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -11943,7 +11943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 337.82 91.948 90)
 			(hide yes)
 			(show_name no)
@@ -12199,7 +12199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 539.75 57.912 90)
 			(hide yes)
 			(show_name no)
@@ -12279,7 +12279,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 549.91 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -12370,7 +12370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 337.82 151.638 90)
 			(hide yes)
 			(show_name no)
@@ -12450,7 +12450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 337.82 80.518 90)
 			(hide yes)
 			(show_name no)
@@ -12608,7 +12608,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 491.49 67.818 90)
 			(hide yes)
 			(show_name no)
@@ -12688,7 +12688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 491.49 117.348 90)
 			(hide yes)
 			(show_name no)
@@ -12768,7 +12768,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 549.91 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -12937,7 +12937,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 386.08 57.912 90)
 			(hide yes)
 			(show_name no)
@@ -13193,7 +13193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 337.82 104.648 90)
 			(hide yes)
 			(show_name no)
@@ -13273,7 +13273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 396.24 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -13364,7 +13364,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 247.65 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -13533,7 +13533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 386.08 74.168 90)
 			(hide yes)
 			(show_name no)
@@ -13613,7 +13613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 237.49 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -13869,7 +13869,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 549.91 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -14038,7 +14038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 539.75 98.298 90)
 			(hide yes)
 			(show_name no)
@@ -14118,7 +14118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 247.65 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -14209,7 +14209,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 386.08 145.288 90)
 			(hide yes)
 			(show_name no)
@@ -14288,7 +14288,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 549.91 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -14379,7 +14379,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 491.49 104.648 90)
 			(hide yes)
 			(show_name no)
@@ -14635,7 +14635,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 247.65 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -14982,7 +14982,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 295.6052 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -15062,7 +15062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 237.49 57.912 90)
 			(hide yes)
 			(show_name no)
@@ -15144,7 +15144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_CSP:Xilinx_CSG48_7.0x7.0mm_Layout7x7_P0.8mm"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 163.83 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -15266,7 +15266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 140.208 90)
 			(hide yes)
 			(show_name no)
@@ -15346,7 +15346,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 247.65 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -15603,7 +15603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 539.75 110.998 90)
 			(hide yes)
 			(show_name no)
@@ -15683,7 +15683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 337.82 140.208 90)
 			(hide yes)
 			(show_name no)
@@ -15765,7 +15765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical"
 			(at 69.85 127 0)
 			(hide yes)
 			(show_name no)
@@ -15845,7 +15845,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 539.75 74.168 90)
 			(hide yes)
 			(show_name no)
@@ -15925,7 +15925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 117.348 90)
 			(hide yes)
 			(show_name no)
@@ -16005,7 +16005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOJ-36_10.16x23.495mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 237.49 122.428 90)
 			(hide yes)
 			(show_name no)
@@ -16085,7 +16085,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 396.24 132.08 0)
 			(hide yes)
 			(show_name no)
