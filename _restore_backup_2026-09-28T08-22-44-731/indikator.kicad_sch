@@ -15032,7 +15032,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 237.49 59.69 90)
+		(at 237.49 59.69 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15063,7 +15063,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 237.49 61.468 90)
+			(at 237.49 57.912 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
