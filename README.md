@@ -1,6 +1,7 @@
 # don't hit me (indikator)
 
-![screenshot](ss.png)
+![front](front.jpg)
+![back](back.jpg)
 
 ## what is it
 
